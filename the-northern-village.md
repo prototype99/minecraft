@@ -1,0 +1,1 @@
+[[village]] [[north]] of #land-of-the-ruined

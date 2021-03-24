@@ -1,0 +1,1 @@
+a gateway into the [[nether]]

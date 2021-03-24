@@ -1,0 +1,1 @@
+[[village]] in #land-of-the-ruined with #white-terracotta

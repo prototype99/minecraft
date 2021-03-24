@@ -1,0 +1,1 @@
+can #breed with a [[golden-apple]] or #golden-carrot
