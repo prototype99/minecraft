@@ -3,8 +3,10 @@ Village,-330,-254,"the high village",,,
 Label,-1088,-1088,,,,40
 Label,-1088,-64,,,,40
 Label,-1088,960,,,,40
+Label,-64,-1088,,,,40
 Label,-64,-64,,,,40
 Label,-64,960,,,,40
+Label,960,-1088,,,,40
 Label,960,-64,,,,40
 Label,960,960,,,,40
 showcoordinates=true,,,,,,
