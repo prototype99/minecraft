@@ -1,1 +1,1 @@
-#zombie #spawner at -361, 18, -491
+#zombie #spawner
