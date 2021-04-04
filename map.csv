@@ -1,4 +1,7 @@
 Type,x,z,Description,Owner,href,IconIndex
+showcoordinates=true,,,,,,
+x=-330,,,,,,
+z=-254,,,,,,
 Village,-1127,-722,,,,
 Village,-1091,-2048,,,,
 Village,-704,-2028,,,,
@@ -21,6 +24,3 @@ Label,960,-2112,,,,40
 Label,960,-1088,,,,40
 Label,960,-64,,,,40
 Label,960,960,,,,40
-showcoordinates=true,,,,,,
-x=-330,,,,,,
-z=-254,,,,,,
