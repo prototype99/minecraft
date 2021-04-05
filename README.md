@@ -1,1 +1,1 @@
-https://buildingwithblocks.info/map173/index.html?src=https://raw.githubusercontent.com/prototype99/minecraft/main/map.csv&showorigin=false
+https://prototype99.github.io/minecraft-map/www/index.html?src=https://raw.githubusercontent.com/prototype99/minecraft/main/map.csv&showorigin=false
