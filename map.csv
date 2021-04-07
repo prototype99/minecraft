@@ -6,13 +6,15 @@ z=-254,,,,,,
 Village,-1127,-722,,,,
 Village,-1091,-2048,,,,
 Village,-704,-2028,,,,
-Village,-330,-254,The High Village,,,
+Village,-330,-254,"The High Village",,,
 Village,15,-1648,,,,
-Label,-343,-438,The Ancient Mine,,,33
-Label,-361,-491,Here be zombies (depth 18),,,33
+Village,-1153,-667,,,,
+Label,-343,-438,"The Ancient Mine",,,33
+Label,-361,-491,"Here be zombies (depth 18)",,,33
 Label,-44,-1225,Ice,,,47
-WitchHut,482,-40,Swamp 0,,,
-WitchHut,-478,45,Swamp 1,,,
+Label,-1167,-239,Ice,,,47
+WitchHut,482,-40,"Swamp 0",,,
+WitchHut,-478,45,"Swamp 1",,,
 Label,-1088,-2112,,,,67
 Label,-1088,-1088,,,,71
 Label,-1088,-64,,,,71
