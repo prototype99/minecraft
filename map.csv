@@ -20,15 +20,17 @@ Label,-1167,-239,Ice,,,47
 Label,-1771,-1135,"Ruined nether portal",,,20
 Label,-1980,-611,Mountain,,,31
 Label,-452,-676,Mountain,,,31
+Label,-2135,473,"pillager outpost",,,9
 WitchHut,482,-40,"Swamp 0",,,
 WitchHut,-478,45,"Swamp 1",,,
 Label,-2112,-2112,,,,67
 Label,-2112,-1088,,,,71
-Label,-2112,-64,,,,66
+Label,-2112,-64,,,,71
+Label,-2112,960,,,,66
 Label,-1088,-2112,,,,72
 Label,-1088,-1088,,,,64
 Label,-1088,-64,,,,64
-Label,-1088,960,,,,66
+Label,-1088,960,,,,70
 Label,-64,-2112,,,,72
 Label,-64,-1088,,,,64
 Label,-64,-64,,,,64
