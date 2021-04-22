@@ -16,7 +16,8 @@ Village,-330,-254,"The High Village",,,
 Village,15,-1648,,,,
 Village,193,-1188,"Taiga Cartography Village",,,
 Label,-343,-438,"The Ancient Mine",,,33
-Label,-361,-491,"Here be zombies (depth 18)",,,33
+Label,-134,64,"Here be spiders",,,2
+Label,-361,-491,"Here be zombies (depth 18)",,,2
 Label,-44,-1225,Ice,,,47
 Label,-1167,-239,Ice,,,47
 Label,-1771,-1135,"Ruined nether portal",,,20
@@ -44,3 +45,5 @@ Label,960,-2112,,,,68
 Label,960,-1088,,,,69
 Label,960,-64,,,,69
 Label,960,960,,,,65
+Label,1984,-1088,,,,68
+Label,1984,-64,,,,65
