@@ -3,47 +3,15 @@ icons=https://raw.githubusercontent.com/prototype99/minecraft/main/custom-icons.
 showcoordinates=true,,,,,,
 x=-330,,,,,,
 z=-254,,,,,,
-SeaMonster,1752,-217,"sea temple",,,
-Village,-2903,83,,,,
-Village,-2474,914,"Zombie village",,,
-Village,-2087,-2096,,,,
-Village,-2014,-274,,,,
-Village,-1686,-1989,"Snow village",,,
-Village,-1127,-722,,,,
-Village,-1102,-2046,"Zombie village",,,
-Village,-704,-2028,,,,
 Village,-330,-254,"The High Village",,,
-Village,15,-1648,,,,
-Village,193,-1188,"Taiga Cartography Village",,,
-Label,-343,-438,"The Ancient Mine",,,33
-Label,-134,64,"Here be spiders",,,2
-Label,-361,-491,"Here be zombies (depth 18)",,,2
 Label,-44,-1225,Ice,,,47
 Label,-1167,-239,Ice,,,47
 Label,-1771,-1135,"Ruined nether portal",,,20
 Label,-1980,-611,Mountain,,,31
 Label,-452,-676,Mountain,,,31
-Label,-2135,473,"pillager outpost",,,9
-WitchHut,482,-40,"Swamp 0",,,
-WitchHut,-478,45,"Swamp 1",,,
-Horse,907,-343,"horse pen",,,
-Label,-3136,-64,,,,67
-Label,-3136,960,,,,66
-Label,-2112,-2112,,,,67
-Label,-2112,-1088,,,,71
-Label,-2112,-64,,,,64
-Label,-2112,960,,,,70
-Label,-1088,-2112,,,,72
-Label,-1088,-1088,,,,64
-Label,-1088,-64,,,,64
-Label,-1088,960,,,,70
-Label,-64,-2112,,,,72
-Label,-64,-1088,,,,64
-Label,-64,-64,,,,64
-Label,-64,960,,,,70
-Label,960,-2112,,,,68
-Label,960,-1088,,,,69
-Label,960,-64,,,,69
-Label,960,960,,,,65
-Label,1984,-1088,,,,68
-Label,1984,-64,,,,65
+Label,-1088,-1088,,,,67
+Label,-1088,-64,,,,71
+Label,-1088,960,,,,66
+Label,-64,-1088,,,,68
+Label,-64,-64,,,,69
+Label,-64,960,,,,65
