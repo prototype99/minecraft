@@ -1,14 +1,12 @@
 Type,x,z,Description,Owner,href,IconIndex
 icons=https://raw.githubusercontent.com/prototype99/minecraft/main/custom-icons.png
 showcoordinates=true,,,,,,
-x=-330,,,,,,
-z=-254,,,,,,
-Village,-330,-254,"The High Village",,,
-Label,-44,-1225,Ice,,,47
-Label,-1167,-239,Ice,,,47
-Label,-1771,-1135,"Ruined nether portal",,,20
-Label,-1980,-611,Mountain,,,31
-Label,-452,-676,Mountain,,,31
+x=-259,,,,,,
+z=-210,,,,,,
+Village,-371,946,village,,,
+Village,-300,582,village,,,
+Village,-259,-210,"the sunken village",,,
+Village,-176,566,"old village",,,
 Label,-1088,-1088,,,,67
 Label,-1088,-64,,,,71
 Label,-1088,960,,,,66
