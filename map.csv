@@ -15,9 +15,11 @@ Label,395,-611,"lush cave",,,33
 Label,454,-741,"lush cave",,,33
 Label,-1088,-2112,boundary,,,67
 Label,-1088,-1088,boundary,,,71
-Label,-1088,-64,boundary,,,66
+Label,-1088,-64,boundary,,,71
+Label,-1088,960,boundary,,,66
 Label,-64,-2112,boundary,,,68
 Label,-64,-1088,boundary,,,64
-Label,-64,-64,boundary,,,70
+Label,-64,-64,boundary,,,64
+Label,-64,960,boundary,,,65
 Label,960,-1088,boundary,,,68
 Label,960,-64,boundary,,,65
