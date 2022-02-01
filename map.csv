@@ -9,6 +9,7 @@ Label,-64,960,boundary,,,66
 Label,960,-1088,boundary,,,68
 Label,960,-64,boundary,,,69
 Label,960,960,boundary,,,65
+Label,185,1845,illagers,,,2
 Label,410,571,illagers,,,2
 Label,332,-645,"ruined nether portal",,,20
 NetherPortal,13,100,"grand forest portal",,,
