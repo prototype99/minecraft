@@ -3,17 +3,19 @@ icons=https://raw.githubusercontent.com/prototype99/minecraft/main/custom-icons.
 showcoordinates=true,,,,,,
 x=134,,,,,,
 z=759,,,,,,
-Label,410,571,illagers,,,2
-Ship,25,463,,,,
-Ship,247,-53,,,,
-Ship,281,34,,,,
-Ship,307,99,,,,
-Ship,887,-527,,,,
-Village,138,-958,village,,,
-Label,332,-645,"ruined nether portal",,,20
 Label,-64,-1088,boundary,,,67
 Label,-64,-64,boundary,,,71
 Label,-64,960,boundary,,,66
 Label,960,-1088,boundary,,,68
 Label,960,-64,boundary,,,69
 Label,960,960,boundary,,,65
+Label,410,571,illagers,,,2
+Label,332,-645,"ruined nether portal",,,20
+NetherPortal,13,100,"grand forest portal",,,
+Ship,25,463,,,,
+Ship,247,-53,,,,
+Ship,281,34,,,,
+Ship,307,99,,,,
+Ship,887,-527,,,,
+Village,134,759,"swiftwater village",,,
+Village,138,-958,village,,,
