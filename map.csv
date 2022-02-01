@@ -3,12 +3,16 @@ icons=https://raw.githubusercontent.com/prototype99/minecraft/main/custom-icons.
 showcoordinates=true,,,,,,
 x=134,,,,,,
 z=759,,,,,,
+Label,-1088,-64,boundary,,,67
+Label,-1088,960,boundary,,,66
 Label,-64,-1088,boundary,,,67
-Label,-64,-64,boundary,,,71
-Label,-64,960,boundary,,,66
+Label,-64,-64,boundary,,,64
+Label,-64,960,boundary,,,64
+Label,-64,1984,boundary,,,66
 Label,960,-1088,boundary,,,68
 Label,960,-64,boundary,,,69
-Label,960,960,boundary,,,65
+Label,960,960,boundary,,,69
+Label,960,1984,boundary,,,65
 Label,185,1845,illagers,,,2
 Label,410,571,illagers,,,2
 Label,332,-645,"ruined nether portal",,,20
