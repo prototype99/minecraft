@@ -1,6 +1,7 @@
 Type,x,z,Description,Owner,href,IconIndex
 showcoordinates=true,,,,,,
-x=-30,,,,,,
-z=-17,,,,,,
-NetherPortal,-30,-17,"homeeeee"
-Label,-355,-247,"soul sand",,,41
+x=13,,,,,,
+z=100,,,,,,
+NetherPortal,13,100,homeeeee,,,
+Label,372,31,"nether waste",,,41
+Label,694,31,"soul sand",,,41
