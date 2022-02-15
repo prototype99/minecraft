@@ -1,8 +1,8 @@
 Type,x,z,Description,Owner,href,IconIndex
 icons=https://raw.githubusercontent.com/prototype99/minecraft/main/custom-icons.png
 showcoordinates=true,,,,,,
-x=134,,,,,,
-z=759,,,,,,
+x=607,,,,,,
+z=220,,,,,,
 Label,-1088,-64,boundary,,,67
 Label,-1088,960,boundary,,,66
 Label,-64,-1088,boundary,,,67
