@@ -3,18 +3,16 @@ icons=https://raw.githubusercontent.com/prototype99/minecraft/main/custom-icons.
 showcoordinates=true,,,,,,
 x=607,,,,,,
 z=220,,,,,,
+DesertTemple,294,982,,,,
 Label,-64,-64,boundary,,,67
 Label,-64,960,boundary,,,66
 Label,960,-64,boundary,,,68
 Label,960,960,boundary,,,65
-Label,185,1845,illagers,,,2
-Label,410,571,illagers,,,2
-Label,332,-645,"ruined nether portal",,,20
-NetherPortal,13,100,"grand forest portal",,,
-Ship,25,463,,,,
-Ship,247,-53,,,,
-Ship,281,34,,,,
-Ship,307,99,,,,
-Ship,887,-527,,,,
-Village,134,759,"swiftwater village",,,
-Village,138,-958,village,,,
+Label,418,904,illagers,,,2
+Label,810,698,illagers,,,2
+Label,288,987,"ruined nether portal",,,20
+Label,407,866,"ruined nether portal",,,20
+Label,160,182,"tower of pestilence",,,22
+NetherPortal,607,214,"the vanishing corridor",,,
+Village,607,220,"village of many mouthes",,,
+Village,242,678,"danger peak village",,,
