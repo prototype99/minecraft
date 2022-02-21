@@ -3,7 +3,7 @@ icons=https://raw.githubusercontent.com/prototype99/minecraft/main/custom-icons.
 showcoordinates=true,,,,,,
 x=607,,,,,,
 z=220,,,,,,
-DesertTemple,294,982,,,,
+DesertTemple,810,698,,,,
 Label,-64,-64,boundary,,,67
 Label,-64,960,boundary,,,71
 Label,-64,1984,boundary,,,66
@@ -11,7 +11,6 @@ Label,960,-64,boundary,,,68
 Label,960,960,boundary,,,69
 Label,960,1984,boundary,,,65
 Label,418,904,illagers,,,2
-Label,810,698,illagers,,,2
 Label,288,987,"ruined nether portal",,,20
 Label,407,866,"ruined nether portal",,,20
 Label,160,182,"tower of pestilence",,,22
